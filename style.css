@@ -1,0 +1,79 @@
+         
+         .btn-grad {
+            background-image: linear-gradient(to right, #bfe1b9 0%, #afdcff  51%, #efbbae  100%);
+            margin: 10px;
+            padding: 15px 45px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            display: block;
+          }
+
+          .btn-grad:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: mediumseagreen;
+            text-decoration: none;
+          }
+
+          .heading{
+            font-size: 35px;
+            font-family: cursive;
+            color: mediumvioletred;
+            letter-spacing: 3px;
+          }
+
+                   
+         .btn-grad2 {
+            background-image: linear-gradient(to right, #B24592 0%, #F15F79  51%, #B24592  100%);
+            margin: 10px;
+            padding: 15px 45px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            display: block;
+          }
+
+          .btn-grad2:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+
+                   
+         .btn-grad3 {
+            background-image: linear-gradient(to right, #C02425 0%, #F0CB35  51%, #C02425  100%);
+            margin: 10px;
+            padding: 15px 45px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            display: block;
+          }
+
+          .btn-grad3:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+
+          .name_of_objects{
+            font-family: cursive;
+            padding: 5px;
+            font-size: 20px;
+            color:midnightblue;
+          }
+         
+         
+         
